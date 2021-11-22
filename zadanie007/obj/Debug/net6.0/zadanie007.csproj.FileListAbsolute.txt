@@ -1,0 +1,15 @@
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\bin\Debug\net6.0\zadanie007.exe
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\bin\Debug\net6.0\zadanie007.deps.json
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\bin\Debug\net6.0\zadanie007.runtimeconfig.json
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\bin\Debug\net6.0\zadanie007.dll
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\bin\Debug\net6.0\ref\zadanie007.dll
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\bin\Debug\net6.0\zadanie007.pdb
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.csproj.AssemblyReference.cache
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.AssemblyInfoInputs.cache
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.AssemblyInfo.cs
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.csproj.CoreCompileInputs.cache
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.dll
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\ref\zadanie007.dll
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.pdb
+C:\Users\vinor\Desktop\C_Sharp\practice1\zadanie007\obj\Debug\net6.0\zadanie007.genruntimeconfig.cache
