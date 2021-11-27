@@ -1,7 +1,10 @@
 ﻿// Найти максимальное из трех чисел
-int numberA = 56;
-int numberB = 45;
-int numberC = 76;
+Console.Write("Введите первое число - ");
+int numberA = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число - ");
+int numberB = int.Parse(Console.ReadLine());
+Console.Write("Введите третье число - ");
+int numberC = int.Parse(Console.ReadLine());
 int max = 0;
 
 if(numberB > numberA)
@@ -20,5 +23,5 @@ else
 {
     max = max;
 }
-Console.Write("Максимальное число из трех - ");
+Console.Write("Максимальное число из этих трех - ");
 Console.WriteLine(max);
