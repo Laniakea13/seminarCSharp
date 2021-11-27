@@ -1,14 +1,18 @@
 ﻿// По двум заданным числам проверять является ли первое квадратом второго
-int numberA = 5;
-int numberB = 24;
+Console.Write("Введите первое целое число - ");
+int numberA = int.Parse(Console.ReadLine());
+
+Console.Write("Введите второе целое число - ");
+int numberB = int.Parse(Console.ReadLine());
+
 int numberC = numberA *numberA;
-Console.WriteLine(numberA);
-Console.WriteLine(numberB);
+
 if(numberB == numberC)
 {
-    Console.WriteLine("true");
+    Console.WriteLine($"Число {numberA} дейстительно является квадратом {numberB}");
 }
 else
 {
-    Console.WriteLine("false");
+    Console.WriteLine($"Число {numberA} не является квадратом числа {numberB} ");
 }
+
