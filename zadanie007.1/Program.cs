@@ -1,5 +1,6 @@
 ﻿// Показать числа от -N до N
-int numberN = 10;
+Console.Write("Введите любое целое число - ");
+int numberN = int.Parse(Console.ReadLine());
 int count = 0;
 int times = 0;
 
