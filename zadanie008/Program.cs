@@ -1,10 +1,11 @@
 ﻿// Показать четные числа от 1 до N
-int numberN = 99;
+Console.Write("Введите любое целое число - ");
+int numberN = int.Parse(Console.ReadLine());
 int count = 0;
 int chetnie =2;
 int schet = numberN - chetnie;
 
-Console.Write("Четные числа:");
+Console.WriteLine($"Четные числа от 1 до {numberN}:");
 
 while(count <= schet /2)
 {
