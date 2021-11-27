@@ -1,6 +1,5 @@
-﻿// квадрат числа
-int numberA = new Random().Next(1,10);
-Console.WriteLine(numberA);
+﻿// Вывести квадрат числа
+Console.WriteLine("Введите любое целое число");
+int numberA = int.Parse(Console.ReadLine());
 int result = numberA * numberA;
-Console.WriteLine(result);
-
+Console.WriteLine($"Квадратом числа {numberA} является {result}");

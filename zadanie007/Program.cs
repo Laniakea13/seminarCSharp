@@ -20,9 +20,9 @@ Console.WriteLine("+");
 
 int x = xa, y = xb;
 
-int count = 10;
+int count = 0;
 
-while(count < 10)
+while(count < 2500)
 {
     int what = new Random().Next(0,3);
     if(what == 0)
