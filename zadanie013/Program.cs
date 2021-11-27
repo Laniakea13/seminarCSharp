@@ -11,6 +11,6 @@ if(numberC == 0 )
 }
 else
 {
-  Console.WriteLine("Число не кратно");
+  Console.WriteLine("Число не кратно заданному программой");
   Console.WriteLine($"Остаток от деления {numberC}");
 }
