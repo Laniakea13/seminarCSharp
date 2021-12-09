@@ -11,10 +11,15 @@ while (i < A)
      arr[i] = i + 1;
      i++;
 }
-i = 0;
+
+int sum = arr.Sum();
+Console.WriteLine("Сумма чисел от 1 до А = " + sum);
+
+/*i = 0;
 while (i < arr.Length)
 {
      Console.Write(arr[i] + " ");
      i++;
 }
 i = 0;
+*/
