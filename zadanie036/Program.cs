@@ -14,4 +14,5 @@ for (int j = 0; j < arr.Length; j++)
     else couuntNotEvent = couuntNotEvent +1;
 }
 Console.WriteLine();
-Console.WriteLine($"Массив содержит {countEvent} четных чисел и {countNotEvent} нечетных");
+Console.Write($"Массив содержит {countEvent} четных чисел, а нечетных - ");
+Console.WriteLine(couuntNotEvent);
